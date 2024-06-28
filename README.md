@@ -8,5 +8,6 @@
 
 - [Документ и шаблон](documents/documents.readme.md)
 - [Умная библиография (список источников)](library/library.readme.md)
+- [Резенция](review/review.readme.md)
 
 
